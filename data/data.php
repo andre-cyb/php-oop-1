@@ -1,6 +1,6 @@
 <?php
 
-$movies= [
+$Nolan= [
 
     [
     "title"=> "Interstellar",
@@ -25,5 +25,32 @@ $movies= [
     "country"=> "US",
     "vote"=> "10/10",
     "year"=> 2017,
+    ],
+];
+$Tarantino= [
+
+    [
+    "title"=> "Pulp Fiction",
+    "country"=> "US",
+    "vote"=> "10/10",
+    "year"=> 1994,
+    ],
+    [
+    "title"=> "Kill Bill Volume 1",
+    "country"=> "US",
+    "vote"=> "10/10",
+    "year"=> 2003,
+    ],
+    [
+    "title"=> "Bastardi senza gloria",
+    "country"=> "US",
+    "vote"=> "10/10",
+    "year"=> 2009,
+    ],
+    [
+    "title"=> "C`era una volta a... Hollywood",
+    "country"=> "US",
+    "vote"=> "10/10",
+    "year"=> 2019,
     ],
 ];
